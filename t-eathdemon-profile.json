@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T00:52:59Z",
+  "IdClaims": [
+    {
+      "Claim": "t:eathdemon"
+    },
+    {
+      "Claim": "yt:@eathdemon"
+    },
+    {
+      "Claim": "mdon:@eathdemon@mastodon.social"
+    },
+    {
+      "Claim": "post:eathdemon"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "8eda87e25239b0225364e6bf",
+    "Timestamp": "2023-04-06T03:51:16Z",
+    "Signature": "43cdba53fd79bd325da51d5748dff0f3b71a5c8f2d0b13e88e89bda2643b6db66887cf247d3f974d88b5b7a89d8453697dc2d21811ded102fe00d7e7e54f700790542d3f69362ce4e5897dc584df630f896df99b832b29454fca76220b7256039c95b1d9131e25512dda7a0ef84ec3468e9a74cb18e4ffea56d5025c27034b9506f3999cbc2685b2d336fe7ccd82f2fbe93a842b6330e1eb2629179edc0ec6207d417e75db7354c6f9991d65962ae1bd755f3db55d5172b88fb266b608711087a743e1415419771fe1189e5a88cae639044d7ff3b742aa22610feb5cb81e0d4750483e3b564658be3ac98e07967db40576ede875f62020e7a84f8becaa3870e3"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "56a0f2f819fead06f4daba56ca3a6c05d0d1fc2bf854cc37fb94f86b637f5032",
+  "ContentToHash": "v1|mdon:@eathdemon@mastodon.social,med:no-account,pat:no-account,post:eathdemon,spout:no-account,ss:no-account,t:eathdemon,yt:@eathdemon|2023-04-06T00:52:59Z"
+}
